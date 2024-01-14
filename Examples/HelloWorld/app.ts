@@ -1,3 +1,3 @@
-let text:string = "Hello world";
+let text = "Hello world";
 
 console.log(text);
